@@ -14,8 +14,8 @@ This is a solution to the [product-preview-card challenge on Frontend Mentor].
 
 ### Screenshot
 
-![](../final/screencapture-desktop.png)
-![](../final/screencapture-mobile.png)
+![](./final/screencapture-desktop.png)
+![](./final/screencapture-mobile.png)
 
 #### Links
 
